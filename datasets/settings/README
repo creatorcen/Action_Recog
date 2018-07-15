@@ -1,0 +1,16 @@
+smartcity_action90:
+
+This dataset is used for SMARTCITY 2018 challenge, containing 90 classes of different actions
+(include, human-to-objects, human-to-human, and some sports), detailed information are as follows:
+
+-------------------------------
+Classes: 90
+
+Train_set videos number: 20242
+Val_set videos number: 4050
+Test_set videos number: 5938
+SUM : 30230
+-------------------------------
+
+
+The dataset provided is ONLY used for SMARTCITY2018 and shall not to be made available for commercial or for-profit use.
